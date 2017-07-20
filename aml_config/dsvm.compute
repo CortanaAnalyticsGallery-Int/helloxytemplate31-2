@@ -1,0 +1,5 @@
+address: 52.173.xxx.xxx
+baseDockerImage: microsoft/mmlspark
+password: 56760999-fceb-47dc-b8a3-1c037b2e2a9a#dsvm#ezwiefel
+type: virtualmachine
+username: ezwiefel
